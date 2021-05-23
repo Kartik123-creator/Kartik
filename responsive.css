@@ -31,4 +31,8 @@
     .card-item img{
         width: 140px;
     }
+    
+    .card-item{
+        padding: 0 50px;
+    }
 }
